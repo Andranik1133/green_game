@@ -97,6 +97,7 @@ main {
   transform: translateX(-50%);
   height: 10rem;
   box-shadow: 0 2rem 5rem rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
 }
 .btn--new {
   top: 4rem;
@@ -127,3 +128,9 @@ main {
   border-radius: 50rem;
   box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
 }
+
+
+.hidden{
+  display: none;
+}
+
